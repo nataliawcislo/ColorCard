@@ -10,12 +10,12 @@ iOS Development Target: iOS 13.2
 
 
 # Features
-ScrollView()
-HStack()
-RoundedRectangle()
-Shadow()
-Rotation3DEffect()
-RadialGradient()
+ScrollView()   
+HStack()  
+RoundedRectangle() = 25 color Card   
+Shadow()   
+Rotation3DEffect()   
+RadialGradient()   
 
 
 
